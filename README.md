@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Matt Osty" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Matt Osty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -36,12 +36,12 @@
 ---
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Matt Osty's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OstyPowers&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 
